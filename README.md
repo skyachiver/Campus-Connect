@@ -1,7 +1,7 @@
 # Campus Connect
 
 <p align="center">
-  <img src="Frame 8.png" alt="Campus Connect Banner" width="600"/>
+  <img src="Frame 8.png" alt="Campus Connect Banner" width="100"/>
 </p>
 ## Introduction
 
