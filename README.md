@@ -1,6 +1,6 @@
 # Campus Connect
 
-![Campus Connect Banner](path/to/your/image.jpg)
+![Campus Connect Banner]([path/to/your/image.jpg](https://github.com/skyachiver/Campus-Connect/blob/main/Frame%208.png))
 
 ## Introduction
 
