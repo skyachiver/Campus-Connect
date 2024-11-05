@@ -4,7 +4,7 @@
   <img src="Frame 8.png" alt="Campus Connect Banner" width="250"/>
 </p>
 
- <H1>Introduction<H1>
+ <H1>Introduction</H1>
 
 **Campus Connect** is an event ticketing application developed exclusively for Goa University, designed to enhance event management and encourage campus-wide participation. Goa University hosts a variety of events—ranging from academic seminars and cultural festivals to sports competitions and club activities—that require a reliable, centralized system for event announcements and ticket reservations. Traditionally, managing these events has posed challenges, such as coordinating ticket sales, ensuring effective communication with students, and handling last-minute updates.
 
