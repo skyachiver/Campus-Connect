@@ -1,17 +1,11 @@
-# Campus-Connect
-An Android app for Goa University
-Campus Connect
-│
-├── app/src/main/java/com/goauniversity/campusconnect
-│   ├── activities           # UI Screens and Activities
-│   ├── adapters             # Adapters for RecyclerViews
-│   ├── models               # Data models (e.g., Event, User)
-│   ├── utils                # Utility classes
-│   └── viewmodels           # ViewModels for managing UI-related data
-│
-├── app/src/main/res
-│   ├── layout               # XML layouts for UI
-│   ├── drawable             # Icons, graphics, etc.
-│   └── values               # App colors, dimensions, and strings
-│
-└── google-services.json      # Firebase configuration file
+# Campus Connect
+
+![Campus Connect Banner](path/to/your/image.jpg)
+
+## Introduction
+
+**Campus Connect** is an event ticketing application developed exclusively for Goa University, designed to enhance event management and encourage campus-wide participation. Goa University hosts a variety of events—ranging from academic seminars and cultural festivals to sports competitions and club activities—that require a reliable, centralized system for event announcements and ticket reservations. Traditionally, managing these events has posed challenges, such as coordinating ticket sales, ensuring effective communication with students, and handling last-minute updates.
+
+This app addresses these challenges by providing a user-friendly platform where students, faculty, and campus organizations can easily access event information, reserve tickets, and receive timely updates. Campus Connect not only streamlines ticket bookings but also enhances communication by delivering real-time notifications about events and any changes to schedules or locations. By leveraging Firebase as its backend, the app ensures secure user authentication, efficient data handling, and scalable support for large volumes of users.
+
+With Campus Connect, Goa University aims to simplify event management processes and promote a more connected and engaging campus environment, encouraging greater student involvement and strengthening community bonds.
